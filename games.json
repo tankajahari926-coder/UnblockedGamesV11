@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Example Game 1",
+        "thumbnail": "https://picsum.photos/seed/game1/300/200",
+        "url": "https://www.google.com/logos/2010/pacman10-i.html"
+    },
+    {
+        "id": 2,
+        "title": "Example Game 2",
+        "thumbnail": "https://picsum.photos/seed/game2/300/200",
+        "url": "https://v6p9d9t4.ssl.hwcdn.net/html/1941/index.html"
+    },
+    {
+        "id": 3,
+        "title": "Example Game 3",
+        "thumbnail": "https://picsum.photos/seed/game3/300/200",
+        "url": "https://www.google.com/logos/2010/pacman10-i.html"
+    },
+    {
+        "id": 4,
+        "title": "Example Game 4",
+        "thumbnail": "https://picsum.photos/seed/game4/300/200",
+        "url": "https://v6p9d9t4.ssl.hwcdn.net/html/1941/index.html"
+    }
+]

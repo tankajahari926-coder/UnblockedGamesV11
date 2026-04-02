@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unblocked Games Hub</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Unblocked Hub</h1>
+        <input type="text" id="searchBar" placeholder="Search for a game...">
+    </header>
+
+    <main id="game-container">
+        <!-- Games will be injected here by JavaScript -->
+        <div style="text-align: center; padding: 50px; color: #888;">Loading games...</div>
+    </main>
+
+    <!-- Game Player Modal -->
+    <div id="gameModal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn" onclick="closeGame()">&times; Close Game</span>
+            <iframe src="" id="gameFrame" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
